@@ -15,10 +15,10 @@ tabs.forEach(tab => {
 });
 
 const gallery = [
-  ["assets/group-1.jpg", "SOCC // BUILDING THE COMMUNITY"],
-  ["assets/group-2.jpg", "IET // STUDENTS & ORGANIZERS"],
-  ["assets/group-3.jpg", "SIH 2026 // ORGANIZING TEAM"],
-  ["assets/group-4.jpg", "IET // COMMUNITY IN ACTION"]
+  ["./assets/group-1.jpg", "SOCC // BUILDING THE COMMUNITY"],
+  ["./assets/group-2.jpg", "IET // STUDENTS & ORGANIZERS"],
+  ["./assets/group-3.jpg", "SIH 2026 // ORGANIZING TEAM"],
+  ["./assets/group-4.jpg", "IET // COMMUNITY IN ACTION"]
 ];
 const galleryImage = document.getElementById("gallery-image");
 const galleryCaption = document.getElementById("gallery-caption");
